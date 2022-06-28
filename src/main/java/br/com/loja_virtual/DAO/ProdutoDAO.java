@@ -1,8 +1,7 @@
 package br.com.loja_virtual.DAO;
 
 import javax.persistence.EntityManager;
-
-import br.com.loja.loja.model.Produto;
+import br.com.loja_virtual.model.Produto;
 
 public class ProdutoDAO {
     private EntityManager em;
